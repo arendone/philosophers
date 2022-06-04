@@ -1,4 +1,4 @@
-# philosophers
+# Philosophers
 I project to learnt how to use threads, mutexes, multi-processes and semaphores.
 
 ## Description "Simulation of a routine of philosophers"
